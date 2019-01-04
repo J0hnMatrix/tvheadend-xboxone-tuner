@@ -16,3 +16,5 @@ From your home directory
 - make
 
 - sudo make install
+
+- sudo reboot
